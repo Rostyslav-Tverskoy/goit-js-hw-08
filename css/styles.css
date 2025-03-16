@@ -1,0 +1,26 @@
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    width: 1128px;
+    align-content: center;
+    justify-content: center;
+    margin: 0 auto;
+    list-style: none;
+    padding: 0;
+    
+}
+
+img {
+    display: block;
+}
+
+.gallery-image {
+    width: 360px;
+    height: 200px;
+}
+
+.modal {
+    width: 1112px;
+    height: 640px;
+}
